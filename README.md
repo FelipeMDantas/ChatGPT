@@ -10,9 +10,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<<<<<<< HEAD
-
-=======
 > A customized AI chat application capable of providing extremely accurate answers.
 
 ## Tech
@@ -40,4 +37,3 @@ A couple of technologies were employed in this project. Among them:
   [cors]: https://github.com/expressjs/cors
   [openai]: https://github.com/openai/openai-node
   [prettier]: https://prettier.io/
->>>>>>> 2d89d4a (Change from local server to deployed online server carried out.)
