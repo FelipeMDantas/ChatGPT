@@ -12,6 +12,14 @@
 
 > A customized AI chat application capable of providing extremely accurate answers.
 
+### Take a look at the page
+
+<img src = images/page_gif.gif>
+
+### or... give it a try!
+
+https://chat-7671mfz8a-felipemdantas.vercel.app/
+
 ## Tech
 
 A couple of technologies were employed in this project. Among them:
